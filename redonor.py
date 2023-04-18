@@ -1,7 +1,7 @@
 from csv import writer
 import csv
 import pandas as pd 
-
+#vanakkam da mapla
 class Id():
 
     def Signup(self,name,mob,passw,typ,loc,age,add):
